@@ -1,0 +1,13 @@
+.quizz__container{
+  width:80%;
+  margin:auto;
+  margin-top: 20px; 
+}
+
+.quizz__logo{
+  display:flex;
+  flex-direction: collun;
+  justify-content: center;
+  align-items:center;
+  margin-bottom: 10px;
+}
